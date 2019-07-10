@@ -1,0 +1,4 @@
+spec:
+ type: LoadBalancer
+ ports:
+ - port: 3000
