@@ -22,7 +22,7 @@
 # Registers:
 
 # File marks:
-'0  1  10  ~/NewUser.txt
+'0  1  11  ~/NewUser.txt
 '1  6  27  ~/Test.php
 '2  1  5  ~/TestProject2/README2
 '3  1  1  ~/TestProject/.git/README.md
@@ -34,7 +34,7 @@
 '9  1  0  ~/prometheus.yml
 
 # Jumplist (newest first):
--'  1  10  ~/NewUser.txt
+-'  1  11  ~/NewUser.txt
 -'  6  27  ~/Test.php
 -'  1  0  ~/Test.php
 -'  1  5  ~/TestProject2/README2
@@ -135,10 +135,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/NewUser.txt
-	"	1	10
-	^	1	11
-	.	1	10
-	+	1	10
+	"	1	11
+	^	1	12
+	.	2	0
+	+	1	12
+	+	2	0
 
 > ~/Test.php
 	"	6	27
