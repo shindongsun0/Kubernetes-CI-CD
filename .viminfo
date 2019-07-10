@@ -22,18 +22,20 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/NewUser.txt
-'1  1  5  ~/TestProject2/README2
-'2  1  1  ~/TestProject/.git/README.md
-'3  1  23  ~/TestProject/README
-'4  2  84  /install.sh
-'5  1  62  ~/sources.list
-'6  4  12  k8s/grafana/granafa.svc.de.yaml
-'7  18  16  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
-'8  1  0  ~/prometheus.yml
-'9  11  0  ~/prometheus.yml
+'0  6  27  ~/Test.php
+'1  1  6  ~/NewUser.txt
+'2  1  5  ~/TestProject2/README2
+'3  1  1  ~/TestProject/.git/README.md
+'4  1  23  ~/TestProject/README
+'5  2  84  /install.sh
+'6  1  62  ~/sources.list
+'7  4  12  k8s/grafana/granafa.svc.de.yaml
+'8  18  16  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
+'9  1  0  ~/prometheus.yml
 
 # Jumplist (newest first):
+-'  6  27  ~/Test.php
+-'  1  0  ~/Test.php
 -'  1  6  ~/NewUser.txt
 -'  1  5  ~/TestProject2/README2
 -'  1  1  ~/TestProject/.git/README.md
@@ -131,9 +133,14 @@
 -'  18  16  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
 -'  1  0  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
 -'  11  0  ~/prometheus.yml
--'  1  0  ~/.ssh/id_rsa.pub
 
 # History of marks within files (newest to oldest):
+
+> ~/Test.php
+	"	6	27
+	^	6	28
+	.	6	26
+	+	6	26
 
 > ~/NewUser.txt
 	"	1	6
