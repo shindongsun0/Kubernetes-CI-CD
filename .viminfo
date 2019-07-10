@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:Wq
 :q
 
 # Search String History (newest to oldest):
@@ -22,19 +23,20 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/NewUser.txt
-'1  6  27  ~/Test.php
-'2  1  5  ~/TestProject2/README2
-'3  1  1  ~/TestProject/.git/README.md
-'4  1  23  ~/TestProject/README
-'5  2  84  /install.sh
-'6  1  62  ~/sources.list
-'7  4  12  k8s/grafana/granafa.svc.de.yaml
-'8  18  16  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
-'9  1  0  ~/prometheus.yml
+'0  2  0  ~/NewUser.txt
+'1  1  11  ~/NewUser.txt
+'2  6  27  ~/Test.php
+'3  1  5  ~/TestProject2/README2
+'4  1  1  ~/TestProject/.git/README.md
+'5  1  23  ~/TestProject/README
+'6  2  84  /install.sh
+'7  1  62  ~/sources.list
+'8  4  12  k8s/grafana/granafa.svc.de.yaml
+'9  18  16  ~/prometheus-kubernetes/prometheus.svc.ss.yaml
 
 # Jumplist (newest first):
--'  1  11  ~/NewUser.txt
+-'  2  0  ~/NewUser.txt
+-'  1  0  ~/NewUser.txt
 -'  6  27  ~/Test.php
 -'  1  0  ~/Test.php
 -'  1  5  ~/TestProject2/README2
@@ -135,11 +137,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/NewUser.txt
-	"	1	11
-	^	1	12
-	.	2	0
+	"	2	0
+	^	2	0
+	.	1	18
 	+	1	12
-	+	2	0
+	+	3	0
+	+	1	18
 
 > ~/Test.php
 	"	6	27
