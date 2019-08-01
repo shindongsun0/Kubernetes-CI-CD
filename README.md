@@ -1,3 +1,6 @@
 # travis-broken-example
 
-An example that will cause a build failure
+한이음_오픈소스 클라우드 오케스트레이터를 이용한 빌드,배포, 업데이트 자동화 시스템 개발 프로젝트
+
+-2019.06~진행중-
+AWS + 쿠버네티스 + 도커 + CI/CD구축
