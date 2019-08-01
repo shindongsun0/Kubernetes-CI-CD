@@ -1,4 +1,4 @@
-# travis-broken-example
+# CI/CD + KUBERNETES
 
 한이음_오픈소스 클라우드 오케스트레이터를 이용한 빌드,배포, 업데이트 자동화 시스템 개발 프로젝트
 
